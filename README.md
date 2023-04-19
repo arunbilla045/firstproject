@@ -14,3 +14,10 @@ raju
 laxmi
 sony
 shiva
+teraform
+ansible
+github
+git actions
+hello all
+how are u doing 
+hope every one fine 
