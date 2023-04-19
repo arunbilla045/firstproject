@@ -7,3 +7,10 @@ i have total 3+ years of experience in DevOps
 aws
 gcp 
 azure
+arun
+billa
+kumar
+raju
+laxmi
+sony
+shiva
